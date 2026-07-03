@@ -280,4 +280,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Synthea API to power healthcare app testing, FHIR pipelines, and ML datasets with safe, synthetic, standards-compliant data.*
 
-Last Updated: 2026.07.02
+Last Updated: 2026.07.03
